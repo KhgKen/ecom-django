@@ -1,2 +1,2 @@
 # Link dẫn tới trang web thử nghiệm
-https://ecom-django-production-587c.up.railway.app/
+https://ecom-django-production-d5d5.up.railway.app/
